@@ -29,4 +29,3 @@ Early stage. Correctness and passes are being developed and tested locally. GPU 
 
 ## The Hardware
 GPU specific needs can be executed on runpod or similar hosting service
-
